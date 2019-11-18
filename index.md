@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joe Scalise's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joe Scalise
+Systems Engineer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
